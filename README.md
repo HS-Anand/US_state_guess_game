@@ -23,7 +23,9 @@ The game will prompt you to guess the name of a US state.
 If you guess correctly, a marker (using Turtle) will move to that state’s position on the map.
 The game continues until you’ve guessed all 50 states or decide to exit.
 At the end, a states_to_be_learn.csv file is created listing the states you didn’t guess.
-How It Works 💻
+
+## How It Works 💻
+
 The game uses the Turtle library to draw on a map of the US.
 The Pandas library is used to read and write CSV files, managing both the state data and tracking your progress.
 Educational Purpose 📚
