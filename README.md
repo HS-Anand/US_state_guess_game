@@ -35,6 +35,6 @@ This project can be used as a fun and interactive way to learn the geography of 
 Feel free to fork this repository, submit issues, or contribute improvements. Contributions are welcome!
 
 ## blank_states_img.gif
-![image](https://github.com/user-attachments/assets/10a839ce-3852-4e34-ba55-4cc484595bca)
+![blank_states_img](https://github.com/user-attachments/assets/c39ab534-a1ee-46d3-9444-92d2cfd90797)
 
 
